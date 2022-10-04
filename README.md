@@ -1,7 +1,7 @@
 # plotly_deployment
 _A JavaScript and Plotly.js interactive dashboard_
 
-Created and interactive dashboard hosted in GitHub pages at
+Created an interactive dashboard and hosted it in GitHub pages 
 https://gopivasanth.github.io/plotly_deployment/
 
 ![Dashboard Preview_](https://github.com/gopivasanth/plotly_deployment/blob/3b9d6e91e3a4f596d2eacfdbe62e7c0c209fdabf/Bellybutton-Biodiversity.png)
