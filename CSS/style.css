@@ -1,0 +1,52 @@
+body {
+
+    color: black;
+    font-family: Verdana;
+  }
+
+  .jumbotron {
+    background-image: url('../images/lab.jpg');
+    background-size: 100% 100%;
+    opacity: 0.7;
+    text-align: center;
+    color: black;
+        
+  } 
+
+  .well {
+background-color: aliceblue;
+font-family: Verdana;
+font-weight: 90;
+font-size: smaller;
+
+
+  }
+
+  .panel {
+    background-color: aliceblue;
+    font-family: Verdana;
+    font-weight: 90;
+    
+      }
+
+
+#know {
+  font-family: Verdana;
+  font-weight: 90;
+  font-size: medium;
+  background-color: aliceblue;
+}
+
+#otu {
+  font-family: Verdana;
+  font-weight: 90;
+  font-size: medium;
+  background-color: whitesmoke;
+}
+
+#scrub{
+  font-family: Verdana;
+  font-weight: 90;
+  font-size: medium;
+  background-color: whitesmoke;
+}
